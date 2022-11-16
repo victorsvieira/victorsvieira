@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorsvieira
 - 👀 I’m interested in App Development and Automation
-- 🌱 I’m currently learning React Native and Python
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via GitHub
 
