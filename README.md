@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development and Automation
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on personal projects
-- 📫 How to reach me: via [Linkedin]([url](https://www.linkedin.com/in/victor-souza-vieira/))
+- 📫 How to reach me: via Linkedin: https://www.linkedin.com/in/victor-souza-vieira/
 
 <!---
 victorsvieira/victorsvieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
